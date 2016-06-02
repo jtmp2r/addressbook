@@ -1,0 +1,40 @@
+	{
+		"address":{
+			"person0": {
+				"name": "Teriq",
+				"isCompleted": true,
+				"designation": "friend",
+				"occupation": "Dreadlocked Hero",
+				"street": "401 North 8 Street",
+				"city": "Nashville, TN",
+				"zip": "37206"
+			},
+			"person1":{
+				"name": "Jason Voorhees",
+				"isCompleted": true,
+				"designation": "enemy",
+				"occupation": "Machete welding Zombie with mother complex",
+				"street": "Camp Crystal Lake",
+				"city": "",
+				"zip": "N/A"
+			},
+			"person2":{
+				"name": "Leatherface",
+				"isCompleted": false,
+				"designation": "enemy",
+				"occupation": "Cannibal Redneck",
+				"street": "901 336 County Road ",
+				"city": "Granger, Texas",
+				"zip": "76530"
+			},
+			"person2":{
+				"name": "Freddy Kruger",
+				"isCompleted": false,
+				"designation": "enemy",
+				"occupation": "Dream Killer",
+				"street": "1428 Elm Street",
+				"city": "Springwood, Ohio",
+				"zip": "10944"
+			}
+		}
+	}	
